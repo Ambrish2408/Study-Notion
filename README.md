@@ -171,12 +171,6 @@ The front end of StudyNotion is designed using Figma, a popular design tool that
 - *INSTRUCTOR MANAGEMENT:* Admin access to manage instructors, their account details, courses, and ratings.
 - *MISCELLANEOUS* Access to user and course management pages.
 
-## CONTRIBUTORS
-
-- Aritra Saha
-  - GITHUB: [Aritra Saha](https://github.com/Anonynmouscx)
-- Hindol Roy
-  - GITHUB: [Hindol Roy](https://github.com/hRJ06)
 
 ## OPEN SOURCE
 
